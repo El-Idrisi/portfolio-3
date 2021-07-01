@@ -7,6 +7,15 @@ nav .container .navbar-brand {
     background-color: #e2edff;
 }
 
+.jumbotron img {
+    width: 250px;
+}
+
+.jumbotron h1,
+.jumbotron p {
+    font-family: Helvetica, sans-serif;
+}
+
 .projects {
     background-color: #e2edff;
 }

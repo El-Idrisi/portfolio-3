@@ -1,0 +1,20 @@
+nav .container .navbar-brand {
+    font-family: 'Pacifico', cursive;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #e2edff;
+}
+
+.projects {
+    background-color: #e2edff;
+}
+
+.projects .row .card img {
+    cursor: pointer;
+}
+
+section {
+    padding-top: 4.5rem;
+}
